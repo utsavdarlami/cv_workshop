@@ -1,0 +1,14 @@
+* Docsumo Workshop Day 3
+
+** Introduction to Computer Vision
+** Images and their properties
+*** RGB image and Grayscale image
+** Edge Detection
+*** Example: Canny edge detector
+** Image Filtering and Sharpening
+** Face detection
+** Tools
+*** OpenCv
+*** Skimage
+
+** Resources and References

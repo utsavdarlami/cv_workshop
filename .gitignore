@@ -1,0 +1,15 @@
+**~
+.python-version
+bak.org
+Readme.html
+.env
+
+# python
+__pycache__/
+
+# jupyter notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+#
+**.csv
