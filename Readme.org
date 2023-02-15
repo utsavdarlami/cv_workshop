@@ -1,4 +1,16 @@
-* Docsumo Workshop Day 3
+* Docsumo Workshop Day 3 [Computer Vision]
+
+A repo created for **5-day Machine Learning and Data Science Bootcamp, hosted by ITSNP and supported by Vrit Technologies Tech and Docsumo**
+
+
+** Resources and References [This notebook uses the following resources]
+
+- Videos
+  - https://nptel.ac.in/courses/106106224 [IIT Hyderabad]
+  - https://fpcv.cs.columbia.edu/  [First Principles of Computer Vision]
+  - https://www.youtube.com/@DigitalSreeni [Digital Sreeni]
+- Book
+  - https://szeliski.org/Book/ [Computer Vision: Algorithms and Applications, 2nd ed.]
 
 ** Introduction to Computer Vision
 ** Images and their properties
