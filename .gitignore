@@ -10,6 +10,7 @@ __pycache__/
 # jupyter notebooks
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+data/images/
 
 #
 **.csv
